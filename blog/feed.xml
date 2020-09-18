@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Bundler Blog</title>
-  <subtitle>The latest news on Bundler</subtitle>
-  <id>http://bundler.io/blog</id>
-  <link href="http://bundler.io/blog"/>
-  <link href="http://bundler.io/blog/feed.xml" rel="self"/>
+  <title>Sugyeong Blog</title>
+  <subtitle>Sugyeong's Git Page~!</subtitle>
+  <id>http://sugyeone.github.io/blog</id>
+  <link href="http://sugyeonge.github.io/blog"/>
+  <link href="http://sugyeone.github.io/blog/feed.xml" rel="self"/>
   <updated>2020-04-27T00:00:00+00:00</updated>
   <author>
     <name>The Bundler Team</name>
